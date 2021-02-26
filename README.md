@@ -1,6 +1,6 @@
 # pypkgs_test 
 
-![](https://github.com/HazelJJJ/pypkgs_test/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/HazelJJJ/pypkgs_test/branch/main/graph/badge.svg)](https://codecov.io/gh/HazelJJJ/pypkgs_test) ![Release](https://github.com/HazelJJJ/pypkgs_test/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/pypkgs_test/badge/?version=latest)](https://pypkgs_test.readthedocs.io/en/latest/?badge=latest)
+![](https://github.com/HazelJJJ/pypkgs_test/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/HazelJJJ/pypkgs_test/branch/main/graph/badge.svg)](https://codecov.io/gh/HazelJJJ/pypkgs_test) ![Release](https://github.com/HazelJJJ/pypkgs_test/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/pypkgshj/badge/?version=latest)](https://pypkgshj.readthedocs.io/en/latest/?badge=latest)
 
 Test run for creating new package
 
